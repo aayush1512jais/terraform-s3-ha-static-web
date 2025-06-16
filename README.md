@@ -70,7 +70,7 @@ This project demonstrates a **highly available, disaster-resilient serverless we
 
 ## Access
 
-- The website will be available at your custom domain (for example, https://www.yourdomain.com), served via CloudFront.
+- The website will be available at your custom domain (for example, 'yourdomain.com' ), served via CloudFront.
 - API endpoints are accessible via the same domain, routed to the appropriate region by Route 53.
 
 ---
